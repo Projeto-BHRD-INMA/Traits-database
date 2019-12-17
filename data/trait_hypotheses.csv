@@ -1,0 +1,9 @@
+Ecological service,Trait,Trait category,Trait type,Ecological meaning ,Trait source
+Dispersal,fruit,diameter ,quantitative,,Bello et al. (2015)
+Dispersal,fruit,length,,,Bello et al. (2015)
+Dispersal,seed,diameter ,,,Bello et al. (2015)
+Dispersal,seed,length,,,Bello et al. (2015)
+Carbon sequestration,wood density,wood density,,,Bello et al. (2015)
+Carbon sequestration,wood density,maximum tree height,,,Bello et al. (2015)
+Sucessional stage,life form,,fuzzy code,,Flora 2020
+Sucessional stage,habitat,,fuzzy code,,Flora 2020
